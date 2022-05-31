@@ -23,3 +23,4 @@ If you use ITensors.jl in your work, for now please cite the [arXiv preprint](ht
     primaryClass={cs.MS}
 }
 ```
+This fork implements a new Arnoldi methos to apply an exponential operator for non-Hermitian cases.
